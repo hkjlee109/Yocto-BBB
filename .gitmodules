@@ -1,0 +1,16 @@
+[submodule "sources/poky-rocko"]
+	path = sources/poky-rocko
+	url = https://git.yoctoproject.org/git/poky
+	branch = rocko
+[submodule "sources/meta-qt5"]
+	path = sources/meta-qt5
+	url = https://github.com/meta-qt5/meta-qt5
+	branch = rocko
+[submodule "sources/meta-openembedded"]
+	path = sources/meta-openembedded
+	url = https://github.com/openembedded/meta-openembedded
+	branch = rocko
+[submodule "sources/meta-ti"]
+	path = sources/meta-ti
+	url = https://git.yoctoproject.org/git/meta-ti
+	branch = rocko
